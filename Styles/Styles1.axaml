@@ -12,7 +12,7 @@
     <Setter Property="HorizontalContentAlignment" Value="Center"/>
     <Setter Property="VerticalContentAlignment" Value="Center"/>
     <Setter Property="FontSize" Value="36"/>
-    <Setter Property="Background" Value="BlueViolet"/>
+    <Setter Property="Background" Value="Black"/>
     <Setter Property="Foreground" Value="White"/>
     <Setter Property="Command" Value="{Binding OnClickCommand}"/>
   </Style>
